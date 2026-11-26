@@ -1,0 +1,2 @@
+# Habit Tracker
+A full-stack Habit Tracker application built using Python, Django, React.js, and MySQL. The application helps users create, manage, and track their daily habits while maintaining their progress and activity records. It provides an organized way to monitor consistency, build positive routines, and track personal growth through a user-friendly interface. Django handles backend operations and APIs, React.js powers the frontend, and MySQL stores user and habit-related data.
